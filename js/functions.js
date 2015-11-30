@@ -14,7 +14,7 @@ $(window).resize(function(){
 var calcHeight = function() {
 	altura = $(window).height();
 	altura2 = altura * 0.3;
-	altura3 = altura * 0.7;
+	altura3 = altura * 0.65;
 	$('header').css('height',altura2);
 	$('.wrap-content').css('height',altura3);
 }
