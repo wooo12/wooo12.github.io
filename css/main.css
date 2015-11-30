@@ -411,6 +411,7 @@ pre {
 
 header {
   margin-top: 25px;
+  margin-bottom: 10px;
   width: 100%;
   display: table;
   opacity: 0;
