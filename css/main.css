@@ -410,6 +410,7 @@ pre {
   transition: all 0.2s ease-in; }
 
 header {
+  margin-top: 25px;
   width: 100%;
   display: table;
   opacity: 0;
